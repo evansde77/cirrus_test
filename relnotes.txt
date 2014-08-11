@@ -2,6 +2,28 @@ example release notes
 
 REPLACEME
 
+Release: 0.0.3 Created: 2014-08-11T19:58:31.093610
+ - Commit History:
+ -- Author: evansde77
+ --- 2014-08-11T19:57:31Z: Merge branch 'release/0.0.2'
+ --- 2014-08-11T19:57:30Z: cirrus release: new release created for release/0.0.2
+ --- 2014-08-11T19:57:30Z: tweaks to conf
+ --- 2014-08-11T19:57:30Z: goddamn yank spelling
+ --- 2014-08-11T16:52:41Z: Merge branch 'master' into release/0.0.2
+ --- 2014-08-11T16:48:21Z: cirrus release: new release created for release/0.0.2
+ --- 2014-08-08T18:01:44Z: tweaks to conf
+ --- 2014-08-08T17:51:35Z: goddamn yank spelling
+ --- 2014-08-08T17:48:27Z: Merge pull request #1 from evansde77/develop
+
+Develop
+ --- 2014-08-08T17:45:09Z: fix pypi url
+ --- 2014-08-08T16:57:12Z: more realistic config and requirements
+ --- 2014-08-06T21:11:51Z: more examples/tests
+ --- 2014-08-06T21:08:17Z: couple more realistic pieces for testing
+ --- 2014-08-01T21:56:35Z: another initial commit
+ --- 2014-08-01T21:55:43Z: initial commit
+ --- 2014-08-01T21:53:28Z: Initial commit
+
 Release: 0.0.2 Created: 2014-08-11T16:48:20.699538
  - Commit History:
  -- Author: evansde77
