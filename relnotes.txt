@@ -2,6 +2,34 @@ example release notes
 
 REPLACEME
 
+Release: 0.0.7 Created: 2018-10-31T19:05:44.270267
+ - Commit History:
+ -- Author: some_user
+ --- 2017-08-01T13:51:10+00:00: such conda, such snowflake
+
+ --- 2017-08-01T13:31:13+00:00: conda is a special snowflake
+
+ --- 2017-07-31T21:27:36+00:00: f**k a conda
+
+ --- 2017-07-31T21:23:08+00:00: messing with conda channels
+
+ --- 2017-07-31T21:08:43+00:00: messing with conda channels
+
+ --- 2017-07-31T20:21:08+00:00: remove arrow version because conda channels are weird
+
+ --- 2017-07-25T20:55:38+00:00: add conda channels
+
+ --- 2017-07-25T17:19:44+00:00: add test conda env file
+
+ -- Author: Dave Evans
+ --- 2017-06-20T14:09:18+00:00: add tox
+
+ --- 2017-06-20T14:00:06+00:00: update stale test package
+
+ --- 2014-08-20T16:11:13+00:00: Merge branch 'release/0.0.4'
+
+ --- 2014-08-20T16:08:49+00:00: cirrus release: new release created for release/0.0.4
+
 Release: 0.0.4 Created: 2014-08-20T16:08:48.683526
  - Commit History:
  -- Author: evansde77
