@@ -1,0 +1,21 @@
+channels:
+- ioam
+- conda-forge
+- defaults
+dependencies:
+- psutil=5.2.1=py36_0
+- yaml=0.1.6=0
+- pip=9.0.1=py36_1
+- readline=6.2=2
+- requests=2.14.2=py36_0
+- six=1.10.0=py36_0
+- pip:
+  - hdfs==2.0.16
+  - impyla==0.14.0
+
+
+
+
+
+
+
